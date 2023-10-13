@@ -1,0 +1,9 @@
+
+#pane{
+    -fx-background-image: url("ss_b8f275c4c5775a813a5cb31a5a2e4007ddffb178.1920x1080.jpg");
+    -fx-background-repeat: stretch;
+    -fx-background-size: 1800 880;
+    -fx-background-position: center center;
+    -fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0);
+}
+
